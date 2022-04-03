@@ -1,0 +1,9 @@
+
+Flask==2.0.1
+Waitress==2.1.1
+idna==2.10
+requests==2.25.1
+Werkzeug==2.0.1
+beautifulsoup4
+openpyxl
+
